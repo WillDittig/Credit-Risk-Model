@@ -1,4 +1,4 @@
-# Fintech_Challange_Module_12
+# Credit Risk Model
 Credit Risk Analysis using Jupytr Notebook using Logistic-Regression
 # Module 12 Report Template
 
